@@ -15,3 +15,5 @@ DesignPattern/FactoryMethod <br>
 |-------- FactoryMethodExample.java <br>
 |-------- reference : Java API의 타입별 FactoryMethod 메서드 제공 <br>
 |-------- FactoryMethod.pptx : 부가 설명 자료 <br>
+
+* 주의: 모든 문자열 인코딩 => UTF-8
